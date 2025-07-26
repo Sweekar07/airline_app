@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Error - Airline Dashboard</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdf2f2;
+      color: #721c24;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    .error-box {
+      background-color: #f8d7da;
+      border: 1px solid #f5c6cb;
+      padding: 30px;
+      border-radius: 10px;
+      text-align: center;
+      max-width: 600px;
+    }
+    h1 {
+      margin-bottom: 20px;
+    }
+    a {
+      margin-top: 20px;
+      display: inline-block;
+      background: #004085;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    a:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-box">
+    <h1>Oops! Something went wrong.</h1>
+    <p><strong>Error:</strong> {{ error_message }}</p>
+    <p><strong>Date:</strong> {{ date }}</p>
+    <a href="/">Return to Dashboard</a>
+  </div>
+</body>
+</html>

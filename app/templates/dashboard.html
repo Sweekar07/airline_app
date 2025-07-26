@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Airline Demand Dashboard</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f1f3f8;
+      color: #333;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 240px 1fr;
+      min-height: 100vh;
+    }
+
+    .sidebar {
+      background-color: #1f2d3d;
+      color: #fff;
+      padding: 20px;
+    }
+
+    .sidebar h2 {
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+
+    .nav-link {
+      display: block;
+      padding: 10px 15px;
+      margin: 10px 0;
+      background: #324057;
+      border-radius: 6px;
+      color: white;
+      text-decoration: none;
+    }
+
+    .nav-link:hover {
+      background: #3e5068;
+    }
+
+    .main {
+      padding: 40px;
+    }
+
+    h1 {
+      color: #004080;
+      margin-bottom: 10px;
+    }
+
+    .form-row {
+      margin-bottom: 20px;
+    }
+
+    select, input[type="date"], button {
+      padding: 10px;
+      font-size: 1rem;
+      margin-right: 10px;
+    }
+
+    .info-cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin: 30px 0;
+    }
+
+    .card {
+      background-color: white;
+      border-radius: 10px;
+      padding: 20px;
+      width: 220px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .card h3 {
+      font-size: 14px;
+      margin: 0 0 8px;
+      color: #666;
+    }
+
+    .card p {
+      font-size: 18px;
+      font-weight: bold;
+      color: #004085;
+    }
+
+    .chart-section {
+      margin-top: 40px;
+    }
+
+    .chart-section h2 {
+      color: #004080;
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <div class="sidebar">
+      <h2>Flight Dashboard</h2>
+      <a class="nav-link" href="#routes">📍 Popular Routes</a>
+      <a class="nav-link" href="#demand">⏱ High Demand Hours</a>
+      <a class="nav-link" href="#airlines">✈️ Airline Activity</a>
+    </div>
+
+    <div class="main">
+      <h1>Flight Market Demand ({{ date }})</h1>
+
+      <form method="get" action="/" class="form-row">
+        <label for="cachedDate">Cached Date:</label>
+        <select name="cached_date" id="cachedDate">
+          {% for d in available_dates %}
+            <option value="{{ d }}" {% if d == date %}selected{% endif %}>{{ d }}</option>
+          {% endfor %}
+        </select>
+
+        <label for="customDate">Custom:</label>
+        <input
+          type="date"
+          name="custom_date"
+          id="customDate"
+          max="{{ max_date }}"
+          min="{{ min_date }}"
+        />
+
+        <button type="submit">Load</button>
+        <small style="display:block; margin-top:10px; color:gray;">
+          (Data available from {{ min_date }} to {{ max_date }})
+        </small>
+      </form>
+
+      <div class="info-cards">
+        <div class="card">
+          <h3>Most Frequent Route</h3>
+          <p>{{ insights.most_common_route[0] }} ({{ insights.most_common_route[1] }})</p>
+        </div>
+        <div class="card">
+          <h3>Peak Hour</h3>
+          <p>{{ insights.peak_hour[0] }}:00 ({{ insights.peak_hour[1] }})</p>
+        </div>
+        <div class="card">
+          <h3>Top Airline</h3>
+          <p>{{ insights.top_airline[0] }} ({{ insights.top_airline[1] }})</p>
+        </div>
+        <div class="card">
+          <h3>Top Origin</h3>
+          <p>{{ insights.top_origin[0] }} ({{ insights.top_origin[1] }})</p>
+        </div>
+        <div class="card">
+          <h3>Top Destination</h3>
+          <p>{{ insights.top_destination[0] }} ({{ insights.top_destination[1] }})</p>
+        </div>
+        <div class="card">
+          <h3>Total Flights</h3>
+          <p>{{ insights.total_flights }}</p>
+        </div>
+      </div>
+
+      <div id="routes" class="chart-section">
+        <h2>All Flight Routes</h2>
+        {{ chart_top_routes_html | safe }}
+      </div>
+
+      <div id="demand" class="chart-section">
+        <h2>High-Demand Periods by Hour</h2>
+        {{ chart_demand_html | safe }}
+      </div>
+
+      <div id="airlines" class="chart-section">
+        <h2>Airline Activity</h2>
+        {{ chart_airline_html | safe }}
+      </div>
+    </div>
+  </div>
+</body>
+</html>

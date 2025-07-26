@@ -1,0 +1,5036 @@
+[
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Kuala Lumpur International Airport (klia)",
+      "timezone": "Asia/Kuala_Lumpur",
+      "iata": "KUL",
+      "icao": "WMKK",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T00:45:00+00:00",
+      "estimated": "2025-07-24T00:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Zhengzhou",
+      "timezone": "Asia/Shanghai",
+      "iata": "CGO",
+      "icao": "ZHCC",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T05:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Postal Airlines",
+      "iata": "CF",
+      "icao": "CYZ"
+    },
+    "flight": {
+      "number": "262",
+      "iata": "CF262",
+      "icao": "CYZ262",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Taiyuan",
+      "timezone": "Asia/Shanghai",
+      "iata": "TYN",
+      "icao": "ZBYN",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T04:25:00+00:00",
+      "estimated": "2025-07-24T04:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Zhengzhou",
+      "timezone": "Asia/Shanghai",
+      "iata": "CGO",
+      "icao": "ZHCC",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Longhao Airlines",
+      "iata": "GI",
+      "icao": "LHA"
+    },
+    "flight": {
+      "number": "4040",
+      "iata": "GI4040",
+      "icao": "LHA4040",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xianyang",
+      "timezone": "Asia/Shanghai",
+      "iata": "XIY",
+      "icao": "ZLXY",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T04:20:00+00:00",
+      "estimated": "2025-07-24T04:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Zhengzhou",
+      "timezone": "Asia/Shanghai",
+      "iata": "CGO",
+      "icao": "ZHCC",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Longhao Airlines",
+      "iata": "GI",
+      "icao": "LHA"
+    },
+    "flight": {
+      "number": "4105",
+      "iata": "GI4105",
+      "icao": "LHA4105",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Schiphol",
+      "timezone": "Europe/Amsterdam",
+      "iata": "AMS",
+      "icao": "EHAM",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T00:15:00+00:00",
+      "estimated": "2025-07-24T00:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Oliver Reginald Tambo International (Jan Smuts International)",
+      "timezone": "Africa/Johannesburg",
+      "iata": "JNB",
+      "icao": "FAOR",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T11:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Martinair",
+      "iata": "MP",
+      "icao": "MPH"
+    },
+    "flight": {
+      "number": "8331",
+      "iata": "MP8331",
+      "icao": "MPH8331",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Jefman",
+      "timezone": "Asia/Jayapura",
+      "iata": "SOQ",
+      "icao": "WASS",
+      "terminal": null,
+      "gate": "1-08",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Kaimana",
+      "timezone": "Asia/Jayapura",
+      "iata": "KNG",
+      "icao": "WASK",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T08:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Wings Air (Indonesia)",
+      "iata": "IW",
+      "icao": "WON"
+    },
+    "flight": {
+      "number": "1528",
+      "iata": "IW1528",
+      "icao": "WON1528",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Fukuoka",
+      "timezone": "Asia/Tokyo",
+      "iata": "FUK",
+      "icao": "RJFF",
+      "terminal": "D",
+      "gate": "9",
+      "delay": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "estimated": "2025-07-24T09:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Haneda Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "HND",
+      "icao": "RJTT",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Japan Airlines",
+      "iata": "JL",
+      "icao": "JTL"
+    },
+    "flight": {
+      "number": "306",
+      "iata": "JL306",
+      "icao": "JTL306",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Fukuoka",
+      "timezone": "Asia/Tokyo",
+      "iata": "FUK",
+      "icao": "RJFF",
+      "terminal": "D",
+      "gate": "9",
+      "delay": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "estimated": "2025-07-24T09:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Haneda Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "HND",
+      "icao": "RJTT",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "AlphaSky",
+      "iata": "AS",
+      "icao": "JAG"
+    },
+    "flight": {
+      "number": "7432",
+      "iata": "AS7432",
+      "icao": "JAG7432",
+      "codeshared": {
+        "airline_name": "jet linx aviation",
+        "airline_iata": "jl",
+        "airline_icao": "jtl",
+        "flight_number": "306",
+        "flight_iata": "jl306",
+        "flight_icao": "jtl306"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Fukuoka",
+      "timezone": "Asia/Tokyo",
+      "iata": "FUK",
+      "icao": "RJFF",
+      "terminal": "D",
+      "gate": "9",
+      "delay": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "estimated": "2025-07-24T09:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Haneda Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "HND",
+      "icao": "RJTT",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Hawaiian Airlines",
+      "iata": "HA",
+      "icao": "HAL"
+    },
+    "flight": {
+      "number": "5139",
+      "iata": "HA5139",
+      "icao": "HAL5139",
+      "codeshared": {
+        "airline_name": "jet linx aviation",
+        "airline_iata": "jl",
+        "airline_icao": "jtl",
+        "flight_number": "306",
+        "flight_iata": "jl306",
+        "flight_icao": "jtl306"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Fukuoka",
+      "timezone": "Asia/Tokyo",
+      "iata": "FUK",
+      "icao": "RJFF",
+      "terminal": "D",
+      "gate": "5",
+      "delay": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "estimated": "2025-07-24T09:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T11:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Jetstar Japan",
+      "iata": "GK",
+      "icao": "JJP"
+    },
+    "flight": {
+      "number": "524",
+      "iata": "GK524",
+      "icao": "JJP524",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Da Nang",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "DAD",
+      "icao": "VVDN",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T02:55:00+00:00",
+      "estimated": "2025-07-24T02:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Gimhae",
+      "timezone": "Asia/Seoul",
+      "iata": "PUS",
+      "icao": "RKPK",
+      "terminal": "I",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "VietJet Air",
+      "iata": "VJ",
+      "icao": "VJC"
+    },
+    "flight": {
+      "number": "988",
+      "iata": "VJ988",
+      "icao": "VJC988",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Da Nang",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "DAD",
+      "icao": "VVDN",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T02:55:00+00:00",
+      "estimated": "2025-07-24T02:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Gimhae",
+      "timezone": "Asia/Seoul",
+      "iata": "PUS",
+      "icao": "RKPK",
+      "terminal": "I",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "FlexFlight",
+      "iata": "W2",
+      "icao": "FXT"
+    },
+    "flight": {
+      "number": "4988",
+      "iata": "W24988",
+      "icao": "FXT4988",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "988",
+        "flight_iata": "vj988",
+        "flight_icao": "vjc988"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Da Nang",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "DAD",
+      "icao": "VVDN",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T02:55:00+00:00",
+      "estimated": "2025-07-24T02:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Gimhae",
+      "timezone": "Asia/Seoul",
+      "iata": "PUS",
+      "icao": "RKPK",
+      "terminal": "I",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "A1",
+      "icao": "A1"
+    },
+    "flight": {
+      "number": "2988",
+      "iata": "A12988",
+      "icao": "A12988",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "988",
+        "flight_iata": "vj988",
+        "flight_icao": "vjc988"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Bahrain International",
+      "timezone": "Asia/Bahrain",
+      "iata": "BAH",
+      "icao": "OBBI",
+      "terminal": null,
+      "gate": "17A",
+      "delay": null,
+      "scheduled": "2025-07-24T01:20:00+00:00",
+      "estimated": "2025-07-24T01:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "LOT - Polish Airlines",
+      "iata": "LO",
+      "icao": "LOT"
+    },
+    "flight": {
+      "number": "4638",
+      "iata": "LO4638",
+      "icao": "LOT4638",
+      "codeshared": {
+        "airline_name": "turkish airlines",
+        "airline_iata": "tk",
+        "airline_icao": "thy",
+        "flight_number": "779",
+        "flight_iata": "tk779",
+        "flight_icao": "thy779"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Bahrain International",
+      "timezone": "Asia/Bahrain",
+      "iata": "BAH",
+      "icao": "OBBI",
+      "terminal": null,
+      "gate": "17A",
+      "delay": null,
+      "scheduled": "2025-07-24T01:20:00+00:00",
+      "estimated": "2025-07-24T01:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Gulf Air",
+      "iata": "GF",
+      "icao": "GFA"
+    },
+    "flight": {
+      "number": "6079",
+      "iata": "GF6079",
+      "icao": "GFA6079",
+      "codeshared": {
+        "airline_name": "turkish airlines",
+        "airline_iata": "tk",
+        "airline_icao": "thy",
+        "flight_number": "779",
+        "flight_iata": "tk779",
+        "flight_icao": "thy779"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Bahrain International",
+      "timezone": "Asia/Bahrain",
+      "iata": "BAH",
+      "icao": "OBBI",
+      "terminal": null,
+      "gate": "18",
+      "delay": null,
+      "scheduled": "2025-07-24T01:20:00+00:00",
+      "estimated": "2025-07-24T01:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seeb",
+      "timezone": "Asia/Muscat",
+      "iata": "MCT",
+      "icao": "OOMS",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T03:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Gulf Air",
+      "iata": "GF",
+      "icao": "GFA"
+    },
+    "flight": {
+      "number": "560",
+      "iata": "GF560",
+      "icao": "GFA560",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Bahrain International",
+      "timezone": "Asia/Bahrain",
+      "iata": "BAH",
+      "icao": "OBBI",
+      "terminal": null,
+      "gate": "18",
+      "delay": null,
+      "scheduled": "2025-07-24T01:20:00+00:00",
+      "estimated": "2025-07-24T01:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seeb",
+      "timezone": "Asia/Muscat",
+      "iata": "MCT",
+      "icao": "OOMS",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T03:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Oman Air",
+      "iata": "WY",
+      "icao": "OMA"
+    },
+    "flight": {
+      "number": "5535",
+      "iata": "WY5535",
+      "icao": "OMA5535",
+      "codeshared": {
+        "airline_name": "gulf air",
+        "airline_iata": "gf",
+        "airline_icao": "gfa",
+        "flight_number": "560",
+        "flight_iata": "gf560",
+        "flight_icao": "gfa560"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Bahrain International",
+      "timezone": "Asia/Bahrain",
+      "iata": "BAH",
+      "icao": "OBBI",
+      "terminal": null,
+      "gate": "14",
+      "delay": null,
+      "scheduled": "2025-07-24T01:20:00+00:00",
+      "estimated": "2025-07-24T01:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Kuwait International",
+      "timezone": "Asia/Kuwait",
+      "iata": "KWI",
+      "icao": "OKKK",
+      "terminal": "1",
+      "gate": "131",
+      "baggage": null,
+      "scheduled": "2025-07-24T02:25:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Gulf Air",
+      "iata": "GF",
+      "icao": "GFA"
+    },
+    "flight": {
+      "number": "211",
+      "iata": "GF211",
+      "icao": "GFA211",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Bahrain International",
+      "timezone": "Asia/Bahrain",
+      "iata": "BAH",
+      "icao": "OBBI",
+      "terminal": null,
+      "gate": "14",
+      "delay": null,
+      "scheduled": "2025-07-24T01:20:00+00:00",
+      "estimated": "2025-07-24T01:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Kuwait International",
+      "timezone": "Asia/Kuwait",
+      "iata": "KWI",
+      "icao": "OKKK",
+      "terminal": "1",
+      "gate": "131",
+      "baggage": null,
+      "scheduled": "2025-07-24T02:25:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Thai Airways International",
+      "iata": "TG",
+      "icao": "THA"
+    },
+    "flight": {
+      "number": "4685",
+      "iata": "TG4685",
+      "icao": "THA4685",
+      "codeshared": {
+        "airline_name": "gulf air",
+        "airline_iata": "gf",
+        "airline_icao": "gfa",
+        "flight_number": "211",
+        "flight_iata": "gf211",
+        "flight_icao": "gfa211"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "estimated": "2025-07-24T09:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T11:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "ANA",
+      "iata": "NH",
+      "icao": "ANA"
+    },
+    "flight": {
+      "number": "8475",
+      "iata": "NH8475",
+      "icao": "ANA8475",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T09:00:00+00:00",
+      "estimated": "2025-07-24T09:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Da Nang",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "DAD",
+      "icao": "VVDN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T12:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Vietnam Airlines",
+      "iata": "VN",
+      "icao": "HVN"
+    },
+    "flight": {
+      "number": "319",
+      "iata": "VN319",
+      "icao": "HVN319",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T09:00:00+00:00",
+      "estimated": "2025-07-24T09:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Da Nang",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "DAD",
+      "icao": "VVDN",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T12:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "ANA",
+      "iata": "NH",
+      "icao": "ANA"
+    },
+    "flight": {
+      "number": "9725",
+      "iata": "NH9725",
+      "icao": "ANA9725",
+      "codeshared": {
+        "airline_name": "vietnam airlines",
+        "airline_iata": "vn",
+        "airline_icao": "hvn",
+        "flight_number": "319",
+        "flight_iata": "vn319",
+        "flight_icao": "hvn319"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "1",
+      "gate": "31",
+      "delay": 10,
+      "scheduled": "2025-07-24T09:00:00+00:00",
+      "estimated": "2025-07-24T09:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "26",
+      "baggage": "3",
+      "scheduled": "2025-07-24T11:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Asiana Airlines",
+      "iata": "OZ",
+      "icao": "AAR"
+    },
+    "flight": {
+      "number": "107",
+      "iata": "OZ107",
+      "icao": "AAR107",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "1",
+      "gate": "31",
+      "delay": 10,
+      "scheduled": "2025-07-24T09:00:00+00:00",
+      "estimated": "2025-07-24T09:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "26",
+      "baggage": "3",
+      "scheduled": "2025-07-24T11:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "8473",
+      "iata": "EY8473",
+      "icao": "ETD8473",
+      "codeshared": {
+        "airline_name": "asiana airlines",
+        "airline_iata": "oz",
+        "airline_icao": "aar",
+        "flight_number": "107",
+        "flight_iata": "oz107",
+        "flight_icao": "aar107"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "1",
+      "gate": "31",
+      "delay": 10,
+      "scheduled": "2025-07-24T09:00:00+00:00",
+      "estimated": "2025-07-24T09:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "26",
+      "baggage": "3",
+      "scheduled": "2025-07-24T11:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "United Airlines",
+      "iata": "UA",
+      "icao": "UAL"
+    },
+    "flight": {
+      "number": "7321",
+      "iata": "UA7321",
+      "icao": "UAL7321",
+      "codeshared": {
+        "airline_name": "asiana airlines",
+        "airline_iata": "oz",
+        "airline_icao": "aar",
+        "flight_number": "107",
+        "flight_iata": "oz107",
+        "flight_icao": "aar107"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "1",
+      "gate": "31",
+      "delay": 10,
+      "scheduled": "2025-07-24T09:00:00+00:00",
+      "estimated": "2025-07-24T09:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "26",
+      "baggage": "3",
+      "scheduled": "2025-07-24T11:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "ANA",
+      "iata": "NH",
+      "icao": "ANA"
+    },
+    "flight": {
+      "number": "6977",
+      "iata": "NH6977",
+      "icao": "ANA6977",
+      "codeshared": {
+        "airline_name": "asiana airlines",
+        "airline_iata": "oz",
+        "airline_icao": "aar",
+        "flight_number": "107",
+        "flight_iata": "oz107",
+        "flight_icao": "aar107"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "1",
+      "gate": "14",
+      "delay": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "estimated": "2025-07-24T08:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "111",
+      "baggage": "11",
+      "scheduled": "2025-07-24T11:25:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Zipair",
+      "iata": "ZG",
+      "icao": "TZP"
+    },
+    "flight": {
+      "number": "41",
+      "iata": "ZG41",
+      "icao": "TZP41",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "1",
+      "gate": "15",
+      "delay": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "estimated": "2025-07-24T08:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Ninoy Aquino International",
+      "timezone": "Asia/Manila",
+      "iata": "MNL",
+      "icao": "RPLL",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T12:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Zipair",
+      "iata": "ZG",
+      "icao": "TZP"
+    },
+    "flight": {
+      "number": "95",
+      "iata": "ZG95",
+      "icao": "TZP95",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "2",
+      "gate": "81",
+      "delay": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "estimated": "2025-07-24T08:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T12:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "VietJet Air",
+      "iata": "VJ",
+      "icao": "VJC"
+    },
+    "flight": {
+      "number": "823",
+      "iata": "VJ823",
+      "icao": "VJC823",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Narita International Airport",
+      "timezone": "Asia/Tokyo",
+      "iata": "NRT",
+      "icao": "RJAA",
+      "terminal": "2",
+      "gate": "81",
+      "delay": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "estimated": "2025-07-24T08:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T12:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "FlexFlight",
+      "iata": "W2",
+      "icao": "FXT"
+    },
+    "flight": {
+      "number": "4823",
+      "iata": "W24823",
+      "icao": "FXT4823",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "823",
+        "flight_iata": "vj823",
+        "flight_icao": "vjc823"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "43",
+      "delay": null,
+      "scheduled": "2025-07-24T08:25:00+00:00",
+      "estimated": "2025-07-24T08:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Hawkes Bay",
+      "timezone": "Pacific/Auckland",
+      "iata": "NPE",
+      "icao": "NZNR",
+      "terminal": "D",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air China LTD",
+      "iata": "CA",
+      "icao": "CCA"
+    },
+    "flight": {
+      "number": "5926",
+      "iata": "CA5926",
+      "icao": "CCA5926",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "5013",
+        "flight_iata": "nz5013",
+        "flight_icao": "anz5013"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Krasnojarsk",
+      "timezone": "Asia/Krasnoyarsk",
+      "iata": "KJA",
+      "icao": "UNKL",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T01:00:00+00:00",
+      "estimated": "2025-07-24T01:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Tashkent International",
+      "timezone": "Asia/Tashkent",
+      "iata": "TAS",
+      "icao": "UTTT",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T02:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "4349",
+      "iata": "S74349",
+      "icao": "SBI4349",
+      "codeshared": {
+        "airline_name": "uzbekistan airways",
+        "airline_iata": "hy",
+        "airline_icao": "uzb",
+        "flight_number": "9684",
+        "flight_iata": "hy9684",
+        "flight_icao": "uzb9684"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Suvarnabhumi International",
+      "timezone": "Asia/Bangkok",
+      "iata": "BKK",
+      "icao": "VTBS",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T06:45:00+00:00",
+      "estimated": "2025-07-24T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T12:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "59",
+      "iata": "TK59",
+      "icao": "THY59",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Suvarnabhumi International",
+      "timezone": "Asia/Bangkok",
+      "iata": "BKK",
+      "icao": "VTBS",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T06:45:00+00:00",
+      "estimated": "2025-07-24T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Istanbul Airport",
+      "timezone": "Europe/Istanbul",
+      "iata": "IST",
+      "icao": "LTFM",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T12:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Thai Airways International",
+      "iata": "TG",
+      "icao": "THA"
+    },
+    "flight": {
+      "number": "7549",
+      "iata": "TG7549",
+      "icao": "THA7549",
+      "codeshared": {
+        "airline_name": "turkish airlines",
+        "airline_iata": "tk",
+        "airline_icao": "thy",
+        "flight_number": "59",
+        "flight_iata": "tk59",
+        "flight_icao": "thy59"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Nikos Kazantzakis Airport",
+      "timezone": "Europe/Athens",
+      "iata": "HER",
+      "icao": "LGIR",
+      "terminal": null,
+      "gate": null,
+      "delay": 10,
+      "scheduled": "2025-07-24T01:20:00+00:00",
+      "estimated": "2025-07-24T01:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Belgrade Nikola Tesla",
+      "timezone": "Europe/Belgrade",
+      "iata": "BEG",
+      "icao": "LYBE",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T02:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Wizz Air",
+      "iata": "W6",
+      "icao": "WZZ"
+    },
+    "flight": {
+      "number": "4004",
+      "iata": "W64004",
+      "icao": "WZZ4004",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "73",
+      "delay": null,
+      "scheduled": "2025-07-24T07:25:00+00:00",
+      "estimated": "2025-07-24T07:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Jinan",
+      "timezone": "Asia/Shanghai",
+      "iata": "TNA",
+      "icao": "ZSJN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Tibet Airlines",
+      "iata": "TV",
+      "icao": "TBA"
+    },
+    "flight": {
+      "number": "3350",
+      "iata": "TV3350",
+      "icao": "TBA3350",
+      "codeshared": {
+        "airline_name": "shandong airlines",
+        "airline_iata": "sc",
+        "airline_icao": "cdg",
+        "flight_number": "8412",
+        "flight_iata": "sc8412",
+        "flight_icao": "cdg8412"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "73",
+      "delay": null,
+      "scheduled": "2025-07-24T07:25:00+00:00",
+      "estimated": "2025-07-24T07:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Jinan",
+      "timezone": "Asia/Shanghai",
+      "iata": "TNA",
+      "icao": "ZSJN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air China LTD",
+      "iata": "CA",
+      "icao": "CCA"
+    },
+    "flight": {
+      "number": "4986",
+      "iata": "CA4986",
+      "icao": "CCA4986",
+      "codeshared": {
+        "airline_name": "shandong airlines",
+        "airline_iata": "sc",
+        "airline_icao": "cdg",
+        "flight_number": "8412",
+        "flight_iata": "sc8412",
+        "flight_icao": "cdg8412"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "73",
+      "delay": null,
+      "scheduled": "2025-07-24T07:25:00+00:00",
+      "estimated": "2025-07-24T07:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Jinan",
+      "timezone": "Asia/Shanghai",
+      "iata": "TNA",
+      "icao": "ZSJN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Shenzhen Airlines",
+      "iata": "ZH",
+      "icao": "CSZ"
+    },
+    "flight": {
+      "number": "2830",
+      "iata": "ZH2830",
+      "icao": "CSZ2830",
+      "codeshared": {
+        "airline_name": "shandong airlines",
+        "airline_iata": "sc",
+        "airline_icao": "cdg",
+        "flight_number": "8412",
+        "flight_iata": "sc8412",
+        "flight_icao": "cdg8412"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": "A,B",
+      "delay": null,
+      "scheduled": "2025-07-24T07:25:00+00:00",
+      "estimated": "2025-07-24T07:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Daguocun",
+      "timezone": "Asia/Shanghai",
+      "iata": "SJW",
+      "icao": "ZBSJ",
+      "terminal": "T2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Hebei Airlines",
+      "iata": "NS",
+      "icao": "HBH"
+    },
+    "flight": {
+      "number": "3289",
+      "iata": "NS3289",
+      "icao": "HBH3289",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": "A,B",
+      "delay": null,
+      "scheduled": "2025-07-24T07:25:00+00:00",
+      "estimated": "2025-07-24T07:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Daguocun",
+      "timezone": "Asia/Shanghai",
+      "iata": "SJW",
+      "icao": "ZBSJ",
+      "terminal": "T2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Jiangxi Airlines",
+      "iata": "RY",
+      "icao": "CJX"
+    },
+    "flight": {
+      "number": "2037",
+      "iata": "RY2037",
+      "icao": "CJX2037",
+      "codeshared": {
+        "airline_name": "hebei airlines",
+        "airline_iata": "ns",
+        "airline_icao": "hbh",
+        "flight_number": "3289",
+        "flight_iata": "ns3289",
+        "flight_icao": "hbh3289"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": "A,B",
+      "delay": null,
+      "scheduled": "2025-07-24T07:25:00+00:00",
+      "estimated": "2025-07-24T07:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Daguocun",
+      "timezone": "Asia/Shanghai",
+      "iata": "SJW",
+      "icao": "ZBSJ",
+      "terminal": "T2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Xiamen Airlines",
+      "iata": "MF",
+      "icao": "CXA"
+    },
+    "flight": {
+      "number": "7036",
+      "iata": "MF7036",
+      "icao": "CXA7036",
+      "codeshared": {
+        "airline_name": "hebei airlines",
+        "airline_iata": "ns",
+        "airline_icao": "hbh",
+        "flight_number": "3289",
+        "flight_iata": "ns3289",
+        "flight_icao": "hbh3289"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": "A,B",
+      "delay": null,
+      "scheduled": "2025-07-24T07:25:00+00:00",
+      "estimated": "2025-07-24T07:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Daguocun",
+      "timezone": "Asia/Shanghai",
+      "iata": "SJW",
+      "icao": "ZBSJ",
+      "terminal": "T2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Southern Airlines",
+      "iata": "CZ",
+      "icao": "CSN"
+    },
+    "flight": {
+      "number": "9766",
+      "iata": "CZ9766",
+      "icao": "CSN9766",
+      "codeshared": {
+        "airline_name": "hebei airlines",
+        "airline_iata": "ns",
+        "airline_icao": "hbh",
+        "flight_number": "3289",
+        "flight_iata": "ns3289",
+        "flight_icao": "hbh3289"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "65",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Changsha",
+      "timezone": "Asia/Shanghai",
+      "iata": "CSX",
+      "icao": "ZGHA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Shandong Airlines",
+      "iata": "SC",
+      "icao": "CDG"
+    },
+    "flight": {
+      "number": "2225",
+      "iata": "SC2225",
+      "icao": "CDG2225",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "65",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Changsha",
+      "timezone": "Asia/Shanghai",
+      "iata": "CSX",
+      "icao": "ZGHA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Shenzhen Airlines",
+      "iata": "ZH",
+      "icao": "CSZ"
+    },
+    "flight": {
+      "number": "2585",
+      "iata": "ZH2585",
+      "icao": "CSZ2585",
+      "codeshared": {
+        "airline_name": "shandong airlines",
+        "airline_iata": "sc",
+        "airline_icao": "cdg",
+        "flight_number": "2225",
+        "flight_iata": "sc2225",
+        "flight_icao": "cdg2225"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "65",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Changsha",
+      "timezone": "Asia/Shanghai",
+      "iata": "CSX",
+      "icao": "ZGHA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Tibet Airlines",
+      "iata": "TV",
+      "icao": "TBA"
+    },
+    "flight": {
+      "number": "3091",
+      "iata": "TV3091",
+      "icao": "TBA3091",
+      "codeshared": {
+        "airline_name": "shandong airlines",
+        "airline_iata": "sc",
+        "airline_icao": "cdg",
+        "flight_number": "2225",
+        "flight_iata": "sc2225",
+        "flight_icao": "cdg2225"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "65",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Changsha",
+      "timezone": "Asia/Shanghai",
+      "iata": "CSX",
+      "icao": "ZGHA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Express Air",
+      "iata": "G5",
+      "icao": "HXA"
+    },
+    "flight": {
+      "number": "8491",
+      "iata": "G58491",
+      "icao": "HXA8491",
+      "codeshared": {
+        "airline_name": "shandong airlines",
+        "airline_iata": "sc",
+        "airline_icao": "cdg",
+        "flight_number": "2225",
+        "flight_iata": "sc2225",
+        "flight_icao": "cdg2225"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "65",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Changsha",
+      "timezone": "Asia/Shanghai",
+      "iata": "CSX",
+      "icao": "ZGHA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T08:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air China LTD",
+      "iata": "CA",
+      "icao": "CCA"
+    },
+    "flight": {
+      "number": "4687",
+      "iata": "CA4687",
+      "icao": "CCA4687",
+      "codeshared": {
+        "airline_name": "shandong airlines",
+        "airline_iata": "sc",
+        "airline_icao": "cdg",
+        "flight_number": "2225",
+        "flight_iata": "sc2225",
+        "flight_icao": "cdg2225"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "62",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Beijing Capital International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PEK",
+      "icao": "ZBAA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air China LTD",
+      "iata": "CA",
+      "icao": "CCA"
+    },
+    "flight": {
+      "number": "1802",
+      "iata": "CA1802",
+      "icao": "CCA1802",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "62",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Beijing Capital International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PEK",
+      "icao": "ZBAA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Shenzhen Airlines",
+      "iata": "ZH",
+      "icao": "CSZ"
+    },
+    "flight": {
+      "number": "1802",
+      "iata": "ZH1802",
+      "icao": "CSZ1802",
+      "codeshared": {
+        "airline_name": "air china ltd",
+        "airline_iata": "ca",
+        "airline_icao": "cca",
+        "flight_number": "1802",
+        "flight_iata": "ca1802",
+        "flight_icao": "cca1802"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "62",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Beijing Capital International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PEK",
+      "icao": "ZBAA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "United Airlines",
+      "iata": "UA",
+      "icao": "UAL"
+    },
+    "flight": {
+      "number": "7608",
+      "iata": "UA7608",
+      "icao": "UAL7608",
+      "codeshared": {
+        "airline_name": "air china ltd",
+        "airline_iata": "ca",
+        "airline_icao": "cca",
+        "flight_number": "1802",
+        "flight_iata": "ca1802",
+        "flight_icao": "cca1802"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "62",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Beijing Capital International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PEK",
+      "icao": "ZBAA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Shandong Airlines",
+      "iata": "SC",
+      "icao": "CDG"
+    },
+    "flight": {
+      "number": "5124",
+      "iata": "SC5124",
+      "icao": "CDG5124",
+      "codeshared": {
+        "airline_name": "air china ltd",
+        "airline_iata": "ca",
+        "airline_icao": "cca",
+        "flight_number": "1802",
+        "flight_iata": "ca1802",
+        "flight_icao": "cca1802"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "62",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Beijing Capital International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PEK",
+      "icao": "ZBAA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Lufthansa",
+      "iata": "LH",
+      "icao": "DLH"
+    },
+    "flight": {
+      "number": "7115",
+      "iata": "LH7115",
+      "icao": "DLH7115",
+      "codeshared": {
+        "airline_name": "air china ltd",
+        "airline_iata": "ca",
+        "airline_icao": "cca",
+        "flight_number": "1802",
+        "flight_iata": "ca1802",
+        "flight_icao": "cca1802"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "62",
+      "delay": null,
+      "scheduled": "2025-07-24T07:20:00+00:00",
+      "estimated": "2025-07-24T07:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Beijing Capital International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PEK",
+      "icao": "ZBAA",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Canada",
+      "iata": "AC",
+      "icao": "ACA"
+    },
+    "flight": {
+      "number": "6623",
+      "iata": "AC6623",
+      "icao": "ACA6623",
+      "codeshared": {
+        "airline_name": "air china ltd",
+        "airline_iata": "ca",
+        "airline_icao": "cca",
+        "flight_number": "1802",
+        "flight_iata": "ca1802",
+        "flight_icao": "cca1802"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guiyang",
+      "timezone": "Asia/Shanghai",
+      "iata": "KWE",
+      "icao": "ZUGY",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Xiamen Airlines",
+      "iata": "MF",
+      "icao": "CXA"
+    },
+    "flight": {
+      "number": "8407",
+      "iata": "MF8407",
+      "icao": "CXA8407",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guiyang",
+      "timezone": "Asia/Shanghai",
+      "iata": "KWE",
+      "icao": "ZUGY",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Hebei Airlines",
+      "iata": "NS",
+      "icao": "HBH"
+    },
+    "flight": {
+      "number": "8407",
+      "iata": "NS8407",
+      "icao": "HBH8407",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8407",
+        "flight_iata": "mf8407",
+        "flight_icao": "cxa8407"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guiyang",
+      "timezone": "Asia/Shanghai",
+      "iata": "KWE",
+      "icao": "ZUGY",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Juneyao Airlines",
+      "iata": "HO",
+      "icao": "DKH"
+    },
+    "flight": {
+      "number": "7172",
+      "iata": "HO7172",
+      "icao": "DKH7172",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8407",
+        "flight_iata": "mf8407",
+        "flight_icao": "cxa8407"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guiyang",
+      "timezone": "Asia/Shanghai",
+      "iata": "KWE",
+      "icao": "ZUGY",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Sichuan Airlines",
+      "iata": "3U",
+      "icao": "CSC"
+    },
+    "flight": {
+      "number": "2517",
+      "iata": "3U2517",
+      "icao": "CSC2517",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8407",
+        "flight_iata": "mf8407",
+        "flight_icao": "cxa8407"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guiyang",
+      "timezone": "Asia/Shanghai",
+      "iata": "KWE",
+      "icao": "ZUGY",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Express Air",
+      "iata": "G5",
+      "icao": "HXA"
+    },
+    "flight": {
+      "number": "9387",
+      "iata": "G59387",
+      "icao": "HXA9387",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8407",
+        "flight_iata": "mf8407",
+        "flight_icao": "cxa8407"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guiyang",
+      "timezone": "Asia/Shanghai",
+      "iata": "KWE",
+      "icao": "ZUGY",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Southern Airlines",
+      "iata": "CZ",
+      "icao": "CSN"
+    },
+    "flight": {
+      "number": "4322",
+      "iata": "CZ4322",
+      "icao": "CSN4322",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8407",
+        "flight_iata": "mf8407",
+        "flight_icao": "cxa8407"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Chongqing Jiangbei International",
+      "timezone": "Asia/Shanghai",
+      "iata": "CKG",
+      "icao": "ZUCK",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Xiamen Airlines",
+      "iata": "MF",
+      "icao": "CXA"
+    },
+    "flight": {
+      "number": "8403",
+      "iata": "MF8403",
+      "icao": "CXA8403",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Chongqing Jiangbei International",
+      "timezone": "Asia/Shanghai",
+      "iata": "CKG",
+      "icao": "ZUCK",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Hebei Airlines",
+      "iata": "NS",
+      "icao": "HBH"
+    },
+    "flight": {
+      "number": "8403",
+      "iata": "NS8403",
+      "icao": "HBH8403",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8403",
+        "flight_iata": "mf8403",
+        "flight_icao": "cxa8403"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Chongqing Jiangbei International",
+      "timezone": "Asia/Shanghai",
+      "iata": "CKG",
+      "icao": "ZUCK",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Juneyao Airlines",
+      "iata": "HO",
+      "icao": "DKH"
+    },
+    "flight": {
+      "number": "7168",
+      "iata": "HO7168",
+      "icao": "DKH7168",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8403",
+        "flight_iata": "mf8403",
+        "flight_icao": "cxa8403"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Chongqing Jiangbei International",
+      "timezone": "Asia/Shanghai",
+      "iata": "CKG",
+      "icao": "ZUCK",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Express Air",
+      "iata": "G5",
+      "icao": "HXA"
+    },
+    "flight": {
+      "number": "9383",
+      "iata": "G59383",
+      "icao": "HXA9383",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8403",
+        "flight_iata": "mf8403",
+        "flight_icao": "cxa8403"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Chongqing Jiangbei International",
+      "timezone": "Asia/Shanghai",
+      "iata": "CKG",
+      "icao": "ZUCK",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Southern Airlines",
+      "iata": "CZ",
+      "icao": "CSN"
+    },
+    "flight": {
+      "number": "4318",
+      "iata": "CZ4318",
+      "icao": "CSN4318",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8403",
+        "flight_iata": "mf8403",
+        "flight_icao": "cxa8403"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:15:00+00:00",
+      "estimated": "2025-07-24T07:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Chongqing Jiangbei International",
+      "timezone": "Asia/Shanghai",
+      "iata": "CKG",
+      "icao": "ZUCK",
+      "terminal": "3",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Sichuan Airlines",
+      "iata": "3U",
+      "icao": "CSC"
+    },
+    "flight": {
+      "number": "2513",
+      "iata": "3U2513",
+      "icao": "CSC2513",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8403",
+        "flight_iata": "mf8403",
+        "flight_icao": "cxa8403"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:10:00+00:00",
+      "estimated": "2025-07-24T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Lishe International Airport",
+      "timezone": "Asia/Shanghai",
+      "iata": "NGB",
+      "icao": "ZSNB",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "B2",
+      "scheduled": "2025-07-24T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Xiamen Airlines",
+      "iata": "MF",
+      "icao": "CXA"
+    },
+    "flight": {
+      "number": "8075",
+      "iata": "MF8075",
+      "icao": "CXA8075",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:10:00+00:00",
+      "estimated": "2025-07-24T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Lishe International Airport",
+      "timezone": "Asia/Shanghai",
+      "iata": "NGB",
+      "icao": "ZSNB",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "B2",
+      "scheduled": "2025-07-24T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Hebei Airlines",
+      "iata": "NS",
+      "icao": "HBH"
+    },
+    "flight": {
+      "number": "6075",
+      "iata": "NS6075",
+      "icao": "HBH6075",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8075",
+        "flight_iata": "mf8075",
+        "flight_icao": "cxa8075"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:10:00+00:00",
+      "estimated": "2025-07-24T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Lishe International Airport",
+      "timezone": "Asia/Shanghai",
+      "iata": "NGB",
+      "icao": "ZSNB",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "B2",
+      "scheduled": "2025-07-24T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Loong Air",
+      "iata": "GJ",
+      "icao": "CDC"
+    },
+    "flight": {
+      "number": "3765",
+      "iata": "GJ3765",
+      "icao": "CDC3765",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8075",
+        "flight_iata": "mf8075",
+        "flight_icao": "cxa8075"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:10:00+00:00",
+      "estimated": "2025-07-24T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Lishe International Airport",
+      "timezone": "Asia/Shanghai",
+      "iata": "NGB",
+      "icao": "ZSNB",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "B2",
+      "scheduled": "2025-07-24T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Express Air",
+      "iata": "G5",
+      "icao": "HXA"
+    },
+    "flight": {
+      "number": "9129",
+      "iata": "G59129",
+      "icao": "HXA9129",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8075",
+        "flight_iata": "mf8075",
+        "flight_icao": "cxa8075"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:10:00+00:00",
+      "estimated": "2025-07-24T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Lishe International Airport",
+      "timezone": "Asia/Shanghai",
+      "iata": "NGB",
+      "icao": "ZSNB",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "B2",
+      "scheduled": "2025-07-24T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Southern Airlines",
+      "iata": "CZ",
+      "icao": "CSN"
+    },
+    "flight": {
+      "number": "4046",
+      "iata": "CZ4046",
+      "icao": "CSN4046",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8075",
+        "flight_iata": "mf8075",
+        "flight_icao": "cxa8075"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "3",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:10:00+00:00",
+      "estimated": "2025-07-24T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Lishe International Airport",
+      "timezone": "Asia/Shanghai",
+      "iata": "NGB",
+      "icao": "ZSNB",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "B2",
+      "scheduled": "2025-07-24T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Sichuan Airlines",
+      "iata": "3U",
+      "icao": "CSC"
+    },
+    "flight": {
+      "number": "2245",
+      "iata": "3U2245",
+      "icao": "CSC2245",
+      "codeshared": {
+        "airline_name": "xiamen airlines",
+        "airline_iata": "mf",
+        "airline_icao": "cxa",
+        "flight_number": "8075",
+        "flight_iata": "mf8075",
+        "flight_icao": "cxa8075"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Xiamen",
+      "timezone": "Asia/Shanghai",
+      "iata": "XMN",
+      "icao": "ZSAM",
+      "terminal": "4",
+      "gate": "78",
+      "delay": null,
+      "scheduled": "2025-07-24T07:10:00+00:00",
+      "estimated": "2025-07-24T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guiyang",
+      "timezone": "Asia/Shanghai",
+      "iata": "KWE",
+      "icao": "ZUGY",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:25:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fuzhou Airlines",
+      "iata": "FU",
+      "icao": "FZA"
+    },
+    "flight": {
+      "number": "6701",
+      "iata": "FU6701",
+      "icao": "FZA6701",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "cancelled",
+    "departure": {
+      "airport": "King Fahd International Airport",
+      "timezone": "Asia/Riyadh",
+      "iata": "DMM",
+      "icao": "OEDF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T02:10:00+00:00",
+      "estimated": "2025-07-24T02:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Thiruvananthapuram International",
+      "timezone": "Asia/Kolkata",
+      "iata": "TRV",
+      "icao": "VOTV",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air India",
+      "iata": "AI",
+      "icao": "AIC"
+    },
+    "flight": {
+      "number": "9204",
+      "iata": "AI9204",
+      "icao": "AIC9204",
+      "codeshared": {
+        "airline_name": "air india express",
+        "airline_iata": "ix",
+        "airline_icao": "axb",
+        "flight_number": "582",
+        "flight_iata": "ix582",
+        "flight_icao": "axb582"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Fahd International Airport",
+      "timezone": "Asia/Riyadh",
+      "iata": "DMM",
+      "icao": "OEDF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T02:10:00+00:00",
+      "estimated": "2025-07-24T02:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "King Abdulaziz International",
+      "timezone": "Asia/Riyadh",
+      "iata": "JED",
+      "icao": "OEJN",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T04:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Flyadeal",
+      "iata": "F3",
+      "icao": "FAD"
+    },
+    "flight": {
+      "number": "324",
+      "iata": "F3324",
+      "icao": "FAD324",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Fahd International Airport",
+      "timezone": "Asia/Riyadh",
+      "iata": "DMM",
+      "icao": "OEDF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T02:10:00+00:00",
+      "estimated": "2025-07-24T02:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "King Abdulaziz International",
+      "timezone": "Asia/Riyadh",
+      "iata": "JED",
+      "icao": "OEJN",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T04:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Saudia",
+      "iata": "SV",
+      "icao": "SVA"
+    },
+    "flight": {
+      "number": "6627",
+      "iata": "SV6627",
+      "icao": "SVA6627",
+      "codeshared": {
+        "airline_name": "flyadeal",
+        "airline_iata": "f3",
+        "airline_icao": "fad",
+        "flight_number": "324",
+        "flight_iata": "f3324",
+        "flight_icao": "fad324"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Fahd International Airport",
+      "timezone": "Asia/Riyadh",
+      "iata": "DMM",
+      "icao": "OEDF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T02:00:00+00:00",
+      "estimated": "2025-07-24T02:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Tribhuvan International",
+      "timezone": "Asia/Kathmandu",
+      "iata": "KTM",
+      "icao": "VNKT",
+      "terminal": "I",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Nepal Airlines",
+      "iata": "RA",
+      "icao": "RNA"
+    },
+    "flight": {
+      "number": "242",
+      "iata": "RA242",
+      "icao": "RNA242",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Fahd International Airport",
+      "timezone": "Asia/Riyadh",
+      "iata": "DMM",
+      "icao": "OEDF",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T01:55:00+00:00",
+      "estimated": "2025-07-24T01:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "King Abdulaziz International",
+      "timezone": "Asia/Riyadh",
+      "iata": "JED",
+      "icao": "OEJN",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T04:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "flynas",
+      "iata": "XY",
+      "icao": "KNE"
+    },
+    "flight": {
+      "number": "413",
+      "iata": "XY413",
+      "icao": "KNE413",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Abdulaziz International",
+      "timezone": "Asia/Riyadh",
+      "iata": "JED",
+      "icao": "OEJN",
+      "terminal": "1",
+      "gate": null,
+      "delay": 25,
+      "scheduled": "2025-07-24T01:00:00+00:00",
+      "estimated": "2025-07-24T01:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "King Khaled International",
+      "timezone": "Asia/Riyadh",
+      "iata": "RUH",
+      "icao": "OERK",
+      "terminal": "5",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T02:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Saudia",
+      "iata": "SV",
+      "icao": "SVA"
+    },
+    "flight": {
+      "number": "1056",
+      "iata": "SV1056",
+      "icao": "SVA1056",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Abdulaziz International",
+      "timezone": "Asia/Riyadh",
+      "iata": "JED",
+      "icao": "OEJN",
+      "terminal": "1",
+      "gate": null,
+      "delay": 25,
+      "scheduled": "2025-07-24T01:00:00+00:00",
+      "estimated": "2025-07-24T01:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "King Khaled International",
+      "timezone": "Asia/Riyadh",
+      "iata": "RUH",
+      "icao": "OERK",
+      "terminal": "5",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T02:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Europa",
+      "iata": "UX",
+      "icao": "AEA"
+    },
+    "flight": {
+      "number": "3893",
+      "iata": "UX3893",
+      "icao": "AEA3893",
+      "codeshared": {
+        "airline_name": "saudia",
+        "airline_iata": "sv",
+        "airline_icao": "sva",
+        "flight_number": "1056",
+        "flight_iata": "sv1056",
+        "flight_icao": "sva1056"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "King Abdulaziz International",
+      "timezone": "Asia/Riyadh",
+      "iata": "JED",
+      "icao": "OEJN",
+      "terminal": "1",
+      "gate": null,
+      "delay": 25,
+      "scheduled": "2025-07-24T01:00:00+00:00",
+      "estimated": "2025-07-24T01:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "King Khaled International",
+      "timezone": "Asia/Riyadh",
+      "iata": "RUH",
+      "icao": "OERK",
+      "terminal": "5",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T02:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Kenya Airways",
+      "iata": "KQ",
+      "icao": "KQA"
+    },
+    "flight": {
+      "number": "5804",
+      "iata": "KQ5804",
+      "icao": "KQA5804",
+      "codeshared": {
+        "airline_name": "saudia",
+        "airline_iata": "sv",
+        "airline_icao": "sva",
+        "flight_number": "1056",
+        "flight_iata": "sv1056",
+        "flight_icao": "sva1056"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "estimated": "2025-07-24T05:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Coong",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "VCS",
+      "icao": "VVCS",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "VietJet Air",
+      "iata": "VJ",
+      "icao": "VJC"
+    },
+    "flight": {
+      "number": "103",
+      "iata": "VJ103",
+      "icao": "VJC103",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "estimated": "2025-07-24T05:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Coong",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "VCS",
+      "icao": "VVCS",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "H1",
+      "icao": "H1"
+    },
+    "flight": {
+      "number": "5117",
+      "iata": "H15117",
+      "icao": "H15117",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "103",
+        "flight_iata": "vj103",
+        "flight_icao": "vjc103"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "estimated": "2025-07-24T05:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Coong",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "VCS",
+      "icao": "VVCS",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "FlexFlight",
+      "iata": "W2",
+      "icao": "FXT"
+    },
+    "flight": {
+      "number": "4103",
+      "iata": "W24103",
+      "icao": "FXT4103",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "103",
+        "flight_iata": "vj103",
+        "flight_icao": "vjc103"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "estimated": "2025-07-24T05:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Coong",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "VCS",
+      "icao": "VVCS",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "A1",
+      "icao": "A1"
+    },
+    "flight": {
+      "number": "2103",
+      "iata": "A12103",
+      "icao": "A12103",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "103",
+        "flight_iata": "vj103",
+        "flight_icao": "vjc103"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:45:00+00:00",
+      "estimated": "2025-07-24T05:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Da Nang",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "DAD",
+      "icao": "VVDN",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Bamboo Airways",
+      "iata": "QH",
+      "icao": "BAV"
+    },
+    "flight": {
+      "number": "101",
+      "iata": "QH101",
+      "icao": "BAV101",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:40:00+00:00",
+      "estimated": "2025-07-24T05:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Phu Bai",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HUI",
+      "icao": "VVPB",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T06:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "VietJet Air",
+      "iata": "VJ",
+      "icao": "VJC"
+    },
+    "flight": {
+      "number": "563",
+      "iata": "VJ563",
+      "icao": "VJC563",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:40:00+00:00",
+      "estimated": "2025-07-24T05:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Phu Bai",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HUI",
+      "icao": "VVPB",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T06:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "H1",
+      "icao": "H1"
+    },
+    "flight": {
+      "number": "4475",
+      "iata": "H14475",
+      "icao": "H14475",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "563",
+        "flight_iata": "vj563",
+        "flight_icao": "vjc563"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:40:00+00:00",
+      "estimated": "2025-07-24T05:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Phu Bai",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HUI",
+      "icao": "VVPB",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T06:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "FlexFlight",
+      "iata": "W2",
+      "icao": "FXT"
+    },
+    "flight": {
+      "number": "4563",
+      "iata": "W24563",
+      "icao": "FXT4563",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "563",
+        "flight_iata": "vj563",
+        "flight_icao": "vjc563"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:40:00+00:00",
+      "estimated": "2025-07-24T05:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Phu Bai",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HUI",
+      "icao": "VVPB",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T06:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "A1",
+      "icao": "A1"
+    },
+    "flight": {
+      "number": "2563",
+      "iata": "A12563",
+      "icao": "A12563",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "563",
+        "flight_iata": "vj563",
+        "flight_icao": "vjc563"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:40:00+00:00",
+      "estimated": "2025-07-24T05:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Hong Kong International",
+      "timezone": "Asia/Hong_Kong",
+      "iata": "HKG",
+      "icao": "VHHH",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T08:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Cargolux",
+      "iata": "CV",
+      "icao": "CLX"
+    },
+    "flight": {
+      "number": "7624",
+      "iata": "CV7624",
+      "icao": "CLX7624",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:30:00+00:00",
+      "estimated": "2025-07-24T05:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "VietJet Air",
+      "iata": "VJ",
+      "icao": "VJC"
+    },
+    "flight": {
+      "number": "1199",
+      "iata": "VJ1199",
+      "icao": "VJC1199",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:30:00+00:00",
+      "estimated": "2025-07-24T05:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "A1",
+      "icao": "A1"
+    },
+    "flight": {
+      "number": "4199",
+      "iata": "A14199",
+      "icao": "A14199",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "1199",
+        "flight_iata": "vj1199",
+        "flight_icao": "vjc1199"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:30:00+00:00",
+      "estimated": "2025-07-24T05:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "FlexFlight",
+      "iata": "W2",
+      "icao": "FXT"
+    },
+    "flight": {
+      "number": "3199",
+      "iata": "W23199",
+      "icao": "FXT3199",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "1199",
+        "flight_iata": "vj1199",
+        "flight_icao": "vjc1199"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:30:00+00:00",
+      "estimated": "2025-07-24T05:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "H1",
+      "icao": "H1"
+    },
+    "flight": {
+      "number": "5159",
+      "iata": "H15159",
+      "icao": "H15159",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "1199",
+        "flight_iata": "vj1199",
+        "flight_icao": "vjc1199"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:30:00+00:00",
+      "estimated": "2025-07-24T05:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Can Tho",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "VCA",
+      "icao": "VVCT",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "VietJet Air",
+      "iata": "VJ",
+      "icao": "VJC"
+    },
+    "flight": {
+      "number": "461",
+      "iata": "VJ461",
+      "icao": "VJC461",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:30:00+00:00",
+      "estimated": "2025-07-24T05:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Can Tho",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "VCA",
+      "icao": "VVCT",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "H1",
+      "icao": "H1"
+    },
+    "flight": {
+      "number": "4331",
+      "iata": "H14331",
+      "icao": "H14331",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "461",
+        "flight_iata": "vj461",
+        "flight_icao": "vjc461"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:30:00+00:00",
+      "estimated": "2025-07-24T05:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Can Tho",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "VCA",
+      "icao": "VVCT",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "FlexFlight",
+      "iata": "W2",
+      "icao": "FXT"
+    },
+    "flight": {
+      "number": "4461",
+      "iata": "W24461",
+      "icao": "FXT4461",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "461",
+        "flight_iata": "vj461",
+        "flight_icao": "vjc461"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Noibai International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "HAN",
+      "icao": "VVNB",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T05:30:00+00:00",
+      "estimated": "2025-07-24T05:30:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Can Tho",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "VCA",
+      "icao": "VVCT",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T07:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "A1",
+      "icao": "A1"
+    },
+    "flight": {
+      "number": "2461",
+      "iata": "A12461",
+      "icao": "A12461",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "461",
+        "flight_iata": "vj461",
+        "flight_icao": "vjc461"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Ngurah Rai International",
+      "timezone": "Asia/Makassar",
+      "iata": "DPS",
+      "icao": "WADD",
+      "terminal": "D",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T08:05:00+00:00",
+      "estimated": "2025-07-24T08:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Soekarno-Hatta International",
+      "timezone": "Asia/Jakarta",
+      "iata": "CGK",
+      "icao": "WIII",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Super Air Jet",
+      "iata": "IU",
+      "icao": "SJV"
+    },
+    "flight": {
+      "number": "731",
+      "iata": "IU731",
+      "icao": "SJV731",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Ngurah Rai International",
+      "timezone": "Asia/Makassar",
+      "iata": "DPS",
+      "icao": "WADD",
+      "terminal": "D",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T08:00:00+00:00",
+      "estimated": "2025-07-24T08:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Lombok International",
+      "timezone": "Asia/Makassar",
+      "iata": "LOP",
+      "icao": "WADL",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Wings Air (Indonesia)",
+      "iata": "IW",
+      "icao": "WON"
+    },
+    "flight": {
+      "number": "1854",
+      "iata": "IW1854",
+      "icao": "WON1854",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-24",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Ngurah Rai International",
+      "timezone": "Asia/Makassar",
+      "iata": "DPS",
+      "icao": "WADD",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-24T07:55:00+00:00",
+      "estimated": "2025-07-24T07:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Mutiara",
+      "timezone": "Asia/Makassar",
+      "iata": "LBJ",
+      "icao": "WATO",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-24T09:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Batik Air",
+      "iata": "ID",
+      "icao": "BTK"
+    },
+    "flight": {
+      "number": "6333",
+      "iata": "ID6333",
+      "icao": "BTK6333",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  }
+]

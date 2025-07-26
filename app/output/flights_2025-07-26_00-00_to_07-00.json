@@ -1,0 +1,5008 @@
+[
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Antalya",
+      "timezone": "Europe/Istanbul",
+      "iata": "AYT",
+      "icao": "LTAI",
+      "terminal": "1",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T00:05:00+00:00",
+      "estimated": "2025-07-27T00:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Novo Alexeyevka International",
+      "timezone": "Asia/Tbilisi",
+      "iata": "TBS",
+      "icao": "UGTB",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T03:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "SunExpress",
+      "iata": "XQ",
+      "icao": "SXS"
+    },
+    "flight": {
+      "number": "302",
+      "iata": "XQ302",
+      "icao": "SXS302",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Antalya",
+      "timezone": "Europe/Istanbul",
+      "iata": "AYT",
+      "icao": "LTAI",
+      "terminal": "1",
+      "gate": null,
+      "delay": 27,
+      "scheduled": "2025-07-27T00:05:00+00:00",
+      "estimated": "2025-07-27T00:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Gardermoen",
+      "timezone": "Europe/Oslo",
+      "iata": "OSL",
+      "icao": "ENGM",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T03:25:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Sunclass Airlines",
+      "iata": "DK",
+      "icao": "VKG"
+    },
+    "flight": {
+      "number": "803",
+      "iata": "DK803",
+      "icao": "VKG803",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Antalya",
+      "timezone": "Europe/Istanbul",
+      "iata": "AYT",
+      "icao": "LTAI",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T00:00:00+00:00",
+      "estimated": "2025-07-27T00:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Pyrzowice",
+      "timezone": "Europe/Warsaw",
+      "iata": "KTW",
+      "icao": "EPKT",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T01:49:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "SmartWings",
+      "iata": "QS",
+      "icao": "TVS"
+    },
+    "flight": {
+      "number": "7233",
+      "iata": "QS7233",
+      "icao": "TVS7233",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T03:55:00+00:00",
+      "estimated": "2025-07-27T03:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Irkutsk",
+      "timezone": "Asia/Irkutsk",
+      "iata": "IKT",
+      "icao": "UIII",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T07:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5239",
+      "iata": "S75239",
+      "icao": "SBI5239",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T03:45:00+00:00",
+      "estimated": "2025-07-27T03:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Talakan Airport",
+      "timezone": null,
+      "iata": "TLK",
+      "icao": "UECT",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T08:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5357",
+      "iata": "S75357",
+      "icao": "SBI5357",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:50:00+00:00",
+      "estimated": "2025-07-27T02:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Blagoveschensk",
+      "timezone": "Asia/Yakutsk",
+      "iata": "BQS",
+      "icao": "UHBB",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T09:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5211",
+      "iata": "S75211",
+      "icao": "SBI5211",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:40:00+00:00",
+      "estimated": "2025-07-27T02:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Krasnojarsk",
+      "timezone": "Asia/Krasnoyarsk",
+      "iata": "KJA",
+      "icao": "UNKL",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T04:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5309",
+      "iata": "S75309",
+      "icao": "SBI5309",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:20:00+00:00",
+      "estimated": "2025-07-27T02:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Neryungri",
+      "timezone": "Asia/Yakutsk",
+      "iata": "NER",
+      "icao": "UELL",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T08:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5245",
+      "iata": "S75245",
+      "icao": "SBI5245",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:15:00+00:00",
+      "estimated": "2025-07-27T02:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Ulan-ude, Baykal",
+      "timezone": "Asia/Irkutsk",
+      "iata": "UUD",
+      "icao": "UIUU",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T05:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5255",
+      "iata": "S75255",
+      "icao": "SBI5255",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:15:00+00:00",
+      "estimated": "2025-07-27T02:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Irkutsk",
+      "timezone": "Asia/Irkutsk",
+      "iata": "IKT",
+      "icao": "UIII",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T05:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5227",
+      "iata": "S75227",
+      "icao": "SBI5227",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:05:00+00:00",
+      "estimated": "2025-07-27T02:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Chita",
+      "timezone": "Asia/Yakutsk",
+      "iata": "HTA",
+      "icao": "UIAA",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T06:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5223",
+      "iata": "S75223",
+      "icao": "SBI5223",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T01:40:00+00:00",
+      "estimated": "2025-07-27T01:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Vladivostok",
+      "timezone": "Asia/Vladivostok",
+      "iata": "VVO",
+      "icao": "UHWW",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5207",
+      "iata": "S75207",
+      "icao": "SBI5207",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T01:20:00+00:00",
+      "estimated": "2025-07-27T01:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Surgut",
+      "timezone": "Asia/Yekaterinburg",
+      "iata": "SGC",
+      "icao": "USRR",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T01:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5349",
+      "iata": "S75349",
+      "icao": "SBI5349",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T01:15:00+00:00",
+      "estimated": "2025-07-27T01:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Blagoveschensk",
+      "timezone": "Asia/Yakutsk",
+      "iata": "BQS",
+      "icao": "UHBB",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T07:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5209",
+      "iata": "S75209",
+      "icao": "SBI5209",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T00:45:00+00:00",
+      "estimated": "2025-07-27T00:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Yakutsk",
+      "timezone": "Asia/Yakutsk",
+      "iata": "YKS",
+      "icao": "UEEE",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T06:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5263",
+      "iata": "S75263",
+      "icao": "SBI5263",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tolmachevo",
+      "timezone": "Asia/Novosibirsk",
+      "iata": "OVB",
+      "icao": "UNNT",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T00:20:00+00:00",
+      "estimated": "2025-07-27T00:20:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Almaty",
+      "timezone": "Asia/Almaty",
+      "iata": "ALA",
+      "icao": "UAAA",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "6",
+      "scheduled": "2025-07-27T00:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "S7 Airlines",
+      "iata": "S7",
+      "icao": "SBI"
+    },
+    "flight": {
+      "number": "5503",
+      "iata": "S75503",
+      "icao": "SBI5503",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:40:00+00:00",
+      "estimated": "2025-07-27T02:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Shanghai Pudong International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PVG",
+      "icao": "ZSPD",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "29",
+      "scheduled": "2025-07-27T08:00:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Juneyao Airlines",
+      "iata": "HO",
+      "icao": "DKH"
+    },
+    "flight": {
+      "number": "1328",
+      "iata": "HO1328",
+      "icao": "DKH1328",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:35:00+00:00",
+      "estimated": "2025-07-27T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "129",
+      "baggage": "12",
+      "scheduled": "2025-07-27T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "VietJet Air",
+      "iata": "VJ",
+      "icao": "VJC"
+    },
+    "flight": {
+      "number": "862",
+      "iata": "VJ862",
+      "icao": "VJC862",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:35:00+00:00",
+      "estimated": "2025-07-27T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "129",
+      "baggage": "12",
+      "scheduled": "2025-07-27T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "H1",
+      "icao": "H1"
+    },
+    "flight": {
+      "number": "4196",
+      "iata": "H14196",
+      "icao": "H14196",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "862",
+        "flight_iata": "vj862",
+        "flight_icao": "vjc862"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:35:00+00:00",
+      "estimated": "2025-07-27T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "129",
+      "baggage": "12",
+      "scheduled": "2025-07-27T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "FlexFlight",
+      "iata": "W2",
+      "icao": "FXT"
+    },
+    "flight": {
+      "number": "4862",
+      "iata": "W24862",
+      "icao": "FXT4862",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "862",
+        "flight_iata": "vj862",
+        "flight_icao": "vjc862"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:35:00+00:00",
+      "estimated": "2025-07-27T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Seoul (Incheon)",
+      "timezone": "Asia/Seoul",
+      "iata": "ICN",
+      "icao": "RKSI",
+      "terminal": "1",
+      "gate": "129",
+      "baggage": "12",
+      "scheduled": "2025-07-27T09:40:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": null,
+      "iata": "A1",
+      "icao": "A1"
+    },
+    "flight": {
+      "number": "2862",
+      "iata": "A12862",
+      "icao": "A12862",
+      "codeshared": {
+        "airline_name": "vietjet air",
+        "airline_iata": "vj",
+        "airline_icao": "vjc",
+        "flight_number": "862",
+        "flight_iata": "vj862",
+        "flight_icao": "vjc862"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": "E",
+      "delay": null,
+      "scheduled": "2025-07-27T02:35:00+00:00",
+      "estimated": "2025-07-27T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Shanghai Pudong International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PVG",
+      "icao": "ZSPD",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "19",
+      "scheduled": "2025-07-27T07:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Eastern Airlines",
+      "iata": "MU",
+      "icao": "CES"
+    },
+    "flight": {
+      "number": "282",
+      "iata": "MU282",
+      "icao": "CES282",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": "E",
+      "delay": null,
+      "scheduled": "2025-07-27T02:35:00+00:00",
+      "estimated": "2025-07-27T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Shanghai Pudong International",
+      "timezone": "Asia/Shanghai",
+      "iata": "PVG",
+      "icao": "ZSPD",
+      "terminal": "1",
+      "gate": null,
+      "baggage": "19",
+      "scheduled": "2025-07-27T07:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Vietnam Airlines",
+      "iata": "VN",
+      "icao": "HVN"
+    },
+    "flight": {
+      "number": "3522",
+      "iata": "VN3522",
+      "icao": "HVN3522",
+      "codeshared": {
+        "airline_name": "china eastern airlines",
+        "airline_iata": "mu",
+        "airline_icao": "ces",
+        "flight_number": "282",
+        "flight_iata": "mu282",
+        "flight_icao": "ces282"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:35:00+00:00",
+      "estimated": "2025-07-27T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guangzhou Baiyun International",
+      "timezone": "Asia/Shanghai",
+      "iata": "CAN",
+      "icao": "ZGGG",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "47",
+      "scheduled": "2025-07-27T06:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Southern Airlines",
+      "iata": "CZ",
+      "icao": "CSN"
+    },
+    "flight": {
+      "number": "6090",
+      "iata": "CZ6090",
+      "icao": "CSN6090",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tan Son Nhat International",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "iata": "SGN",
+      "icao": "VVTS",
+      "terminal": "2",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:35:00+00:00",
+      "estimated": "2025-07-27T02:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Guangzhou Baiyun International",
+      "timezone": "Asia/Shanghai",
+      "iata": "CAN",
+      "icao": "ZGGG",
+      "terminal": "2",
+      "gate": null,
+      "baggage": "47",
+      "scheduled": "2025-07-27T06:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Vietnam Airlines",
+      "iata": "VN",
+      "icao": "HVN"
+    },
+    "flight": {
+      "number": "3558",
+      "iata": "VN3558",
+      "icao": "HVN3558",
+      "codeshared": {
+        "airline_name": "china southern airlines",
+        "airline_iata": "cz",
+        "airline_icao": "csn",
+        "flight_number": "6090",
+        "flight_iata": "cz6090",
+        "flight_icao": "csn6090"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D17",
+      "delay": null,
+      "scheduled": "2025-07-27T06:50:00+00:00",
+      "estimated": "2025-07-27T06:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "30",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "584",
+      "iata": "NZ584",
+      "icao": "ANZ584",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D17",
+      "delay": null,
+      "scheduled": "2025-07-27T06:50:00+00:00",
+      "estimated": "2025-07-27T06:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "30",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "8752",
+      "iata": "TK8752",
+      "icao": "THY8752",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "584",
+        "flight_iata": "nz584",
+        "flight_icao": "anz584"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D17",
+      "delay": null,
+      "scheduled": "2025-07-27T06:50:00+00:00",
+      "estimated": "2025-07-27T06:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "30",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "4364",
+      "iata": "SQ4364",
+      "icao": "SIA4364",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "584",
+        "flight_iata": "nz584",
+        "flight_icao": "anz584"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D17",
+      "delay": null,
+      "scheduled": "2025-07-27T06:50:00+00:00",
+      "estimated": "2025-07-27T06:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "30",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Asiana Airlines",
+      "iata": "OZ",
+      "icao": "AAR"
+    },
+    "flight": {
+      "number": "6548",
+      "iata": "OZ6548",
+      "icao": "AAR6548",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "584",
+        "flight_iata": "nz584",
+        "flight_icao": "anz584"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D17",
+      "delay": null,
+      "scheduled": "2025-07-27T06:50:00+00:00",
+      "estimated": "2025-07-27T06:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "30",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "ANA",
+      "iata": "NH",
+      "icao": "ANA"
+    },
+    "flight": {
+      "number": "7955",
+      "iata": "NH7955",
+      "icao": "ANA7955",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "584",
+        "flight_iata": "nz584",
+        "flight_icao": "anz584"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D17",
+      "delay": null,
+      "scheduled": "2025-07-27T06:50:00+00:00",
+      "estimated": "2025-07-27T06:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "30",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4497",
+      "iata": "EY4497",
+      "icao": "ETD4497",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "584",
+        "flight_iata": "nz584",
+        "flight_icao": "anz584"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D17",
+      "delay": null,
+      "scheduled": "2025-07-27T06:50:00+00:00",
+      "estimated": "2025-07-27T06:50:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "30",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:15:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "EVA Air",
+      "iata": "BR",
+      "icao": "EVA"
+    },
+    "flight": {
+      "number": "3260",
+      "iata": "BR3260",
+      "icao": "EVA3260",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "584",
+        "flight_iata": "nz584",
+        "flight_icao": "anz584"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Hawkes Bay",
+      "timezone": "Pacific/Auckland",
+      "iata": "NPE",
+      "icao": "NZNR",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:55:00+00:00",
+      "estimated": "2025-07-27T06:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "43",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "5006",
+      "iata": "NZ5006",
+      "icao": "ANZ5006",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Hawkes Bay",
+      "timezone": "Pacific/Auckland",
+      "iata": "NPE",
+      "icao": "NZNR",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:55:00+00:00",
+      "estimated": "2025-07-27T06:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "43",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "4397",
+      "iata": "SQ4397",
+      "icao": "SIA4397",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "5006",
+        "flight_iata": "nz5006",
+        "flight_icao": "anz5006"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tauranga",
+      "timezone": "Pacific/Auckland",
+      "iata": "TRG",
+      "icao": "NZTG",
+      "terminal": null,
+      "gate": "3",
+      "delay": null,
+      "scheduled": "2025-07-27T07:10:00+00:00",
+      "estimated": "2025-07-27T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "50",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "5126",
+      "iata": "NZ5126",
+      "icao": "ANZ5126",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tauranga",
+      "timezone": "Pacific/Auckland",
+      "iata": "TRG",
+      "icao": "NZTG",
+      "terminal": null,
+      "gate": "3",
+      "delay": null,
+      "scheduled": "2025-07-27T07:10:00+00:00",
+      "estimated": "2025-07-27T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "50",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "4428",
+      "iata": "SQ4428",
+      "icao": "SIA4428",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "5126",
+        "flight_iata": "nz5126",
+        "flight_icao": "anz5126"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Tauranga",
+      "timezone": "Pacific/Auckland",
+      "iata": "TRG",
+      "icao": "NZTG",
+      "terminal": null,
+      "gate": "3",
+      "delay": null,
+      "scheduled": "2025-07-27T07:10:00+00:00",
+      "estimated": "2025-07-27T07:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "50",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qantas",
+      "iata": "QF",
+      "icao": "QFA"
+    },
+    "flight": {
+      "number": "8520",
+      "iata": "QF8520",
+      "icao": "QFA8520",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "5126",
+        "flight_iata": "nz5126",
+        "flight_icao": "anz5126"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D21",
+      "delay": null,
+      "scheduled": "2025-07-27T06:15:00+00:00",
+      "estimated": "2025-07-27T06:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T07:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Jetstar",
+      "iata": "JQ",
+      "icao": "JST"
+    },
+    "flight": {
+      "number": "226",
+      "iata": "JQ226",
+      "icao": "JST226",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D21",
+      "delay": null,
+      "scheduled": "2025-07-27T06:15:00+00:00",
+      "estimated": "2025-07-27T06:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T07:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qantas",
+      "iata": "QF",
+      "icao": "QFA"
+    },
+    "flight": {
+      "number": "5593",
+      "iata": "QF5593",
+      "icao": "QFA5593",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "226",
+        "flight_iata": "jq226",
+        "flight_icao": "jst226"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D21",
+      "delay": null,
+      "scheduled": "2025-07-27T06:15:00+00:00",
+      "estimated": "2025-07-27T06:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T07:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fiji Airways",
+      "iata": "FJ",
+      "icao": "FJI"
+    },
+    "flight": {
+      "number": "5512",
+      "iata": "FJ5512",
+      "icao": "FJI5512",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "226",
+        "flight_iata": "jq226",
+        "flight_icao": "jst226"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D21",
+      "delay": null,
+      "scheduled": "2025-07-27T06:15:00+00:00",
+      "estimated": "2025-07-27T06:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T07:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Emirates",
+      "iata": "EK",
+      "icao": "UAE"
+    },
+    "flight": {
+      "number": "7486",
+      "iata": "EK7486",
+      "icao": "UAE7486",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "226",
+        "flight_iata": "jq226",
+        "flight_icao": "jst226"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D21",
+      "delay": null,
+      "scheduled": "2025-07-27T06:15:00+00:00",
+      "estimated": "2025-07-27T06:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T07:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "9037",
+      "iata": "AA9037",
+      "icao": "AAL9037",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "226",
+        "flight_iata": "jq226",
+        "flight_icao": "jst226"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D18",
+      "delay": null,
+      "scheduled": "2025-07-27T05:45:00+00:00",
+      "estimated": "2025-07-27T05:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "31",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "582",
+      "iata": "NZ582",
+      "icao": "ANZ582",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D18",
+      "delay": null,
+      "scheduled": "2025-07-27T05:45:00+00:00",
+      "estimated": "2025-07-27T05:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "31",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4494",
+      "iata": "EY4494",
+      "icao": "ETD4494",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "582",
+        "flight_iata": "nz582",
+        "flight_icao": "anz582"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Christchurch International",
+      "timezone": "Pacific/Auckland",
+      "iata": "CHC",
+      "icao": "NZCH",
+      "terminal": null,
+      "gate": "D18",
+      "delay": null,
+      "scheduled": "2025-07-27T05:45:00+00:00",
+      "estimated": "2025-07-27T05:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "31",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "EVA Air",
+      "iata": "BR",
+      "icao": "EVA"
+    },
+    "flight": {
+      "number": "3248",
+      "iata": "BR3248",
+      "icao": "EVA3248",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "582",
+        "flight_iata": "nz582",
+        "flight_icao": "anz582"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:00:00+00:00",
+      "estimated": "2025-07-27T06:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "402",
+      "iata": "NZ402",
+      "icao": "ANZ402",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:00:00+00:00",
+      "estimated": "2025-07-27T06:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "8746",
+      "iata": "TK8746",
+      "icao": "THY8746",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "402",
+        "flight_iata": "nz402",
+        "flight_icao": "anz402"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:00:00+00:00",
+      "estimated": "2025-07-27T06:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "4460",
+      "iata": "SQ4460",
+      "icao": "SIA4460",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "402",
+        "flight_iata": "nz402",
+        "flight_icao": "anz402"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:00:00+00:00",
+      "estimated": "2025-07-27T06:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qantas",
+      "iata": "QF",
+      "icao": "QFA"
+    },
+    "flight": {
+      "number": "8534",
+      "iata": "QF8534",
+      "icao": "QFA8534",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "402",
+        "flight_iata": "nz402",
+        "flight_icao": "anz402"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:00:00+00:00",
+      "estimated": "2025-07-27T06:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Asiana Airlines",
+      "iata": "OZ",
+      "icao": "AAR"
+    },
+    "flight": {
+      "number": "6558",
+      "iata": "OZ6558",
+      "icao": "AAR6558",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "402",
+        "flight_iata": "nz402",
+        "flight_icao": "anz402"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:00:00+00:00",
+      "estimated": "2025-07-27T06:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "ANA",
+      "iata": "NH",
+      "icao": "ANA"
+    },
+    "flight": {
+      "number": "7957",
+      "iata": "NH7957",
+      "icao": "ANA7957",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "402",
+        "flight_iata": "nz402",
+        "flight_icao": "anz402"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:00:00+00:00",
+      "estimated": "2025-07-27T06:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4518",
+      "iata": "EY4518",
+      "icao": "ETD4518",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "402",
+        "flight_iata": "nz402",
+        "flight_icao": "anz402"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Weipa",
+      "timezone": "Australia/Brisbane",
+      "iata": "WEI",
+      "icao": "YBWP",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T02:00:00+00:00",
+      "estimated": "2025-07-27T02:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Cairns",
+      "timezone": "Australia/Brisbane",
+      "iata": "CNS",
+      "icao": "YBCS",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T03:21:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "empty",
+      "iata": null,
+      "icao": null
+    },
+    "flight": {
+      "number": null,
+      "iata": null,
+      "icao": null,
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Townsville International",
+      "timezone": "Australia/Brisbane",
+      "iata": "TSV",
+      "icao": "YBTL",
+      "terminal": null,
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T00:00:00+00:00",
+      "estimated": "2025-07-27T00:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Cairns",
+      "timezone": "Australia/Brisbane",
+      "iata": "CNS",
+      "icao": "YBCS",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T00:47:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "empty",
+      "iata": null,
+      "icao": null
+    },
+    "flight": {
+      "number": null,
+      "iata": null,
+      "icao": null,
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "20",
+      "delay": null,
+      "scheduled": "2025-07-27T06:25:00+00:00",
+      "estimated": "2025-07-27T06:25:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "2",
+      "gate": "A55",
+      "baggage": "D4",
+      "scheduled": "2025-07-27T08:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Jetstar",
+      "iata": "JQ",
+      "icao": "JST"
+    },
+    "flight": {
+      "number": "761",
+      "iata": "JQ761",
+      "icao": "JST761",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "16",
+      "delay": null,
+      "scheduled": "2025-07-27T06:15:00+00:00",
+      "estimated": "2025-07-27T06:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Ngurah Rai International",
+      "timezone": "Asia/Makassar",
+      "iata": "DPS",
+      "icao": "WADD",
+      "terminal": "I",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Jetstar",
+      "iata": "JQ",
+      "icao": "JST"
+    },
+    "flight": {
+      "number": "125",
+      "iata": "JQ125",
+      "icao": "JST125",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "16",
+      "delay": null,
+      "scheduled": "2025-07-27T06:15:00+00:00",
+      "estimated": "2025-07-27T06:15:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Ngurah Rai International",
+      "timezone": "Asia/Makassar",
+      "iata": "DPS",
+      "icao": "WADD",
+      "terminal": "I",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T10:10:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "KLM",
+      "iata": "KL",
+      "icao": "KLM"
+    },
+    "flight": {
+      "number": "3544",
+      "iata": "KL3544",
+      "icao": "KLM3544",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "125",
+        "flight_iata": "jq125",
+        "flight_icao": "jst125"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:10:00+00:00",
+      "estimated": "2025-07-27T06:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Brisbane International",
+      "timezone": "Australia/Brisbane",
+      "iata": "BNE",
+      "icao": "YBBN",
+      "terminal": "D",
+      "gate": "43",
+      "baggage": null,
+      "scheduled": "2025-07-27T09:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Virgin Australia",
+      "iata": "VA",
+      "icao": "VOZ"
+    },
+    "flight": {
+      "number": "1385",
+      "iata": "VA1385",
+      "icao": "VOZ1385",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:10:00+00:00",
+      "estimated": "2025-07-27T06:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Brisbane International",
+      "timezone": "Australia/Brisbane",
+      "iata": "BNE",
+      "icao": "YBBN",
+      "terminal": "D",
+      "gate": "43",
+      "baggage": null,
+      "scheduled": "2025-07-27T09:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "6919",
+      "iata": "SQ6919",
+      "icao": "SIA6919",
+      "codeshared": {
+        "airline_name": "virgin australia",
+        "airline_iata": "va",
+        "airline_icao": "voz",
+        "flight_number": "1385",
+        "flight_iata": "va1385",
+        "flight_icao": "voz1385"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "13",
+      "delay": null,
+      "scheduled": "2025-07-27T06:10:00+00:00",
+      "estimated": "2025-07-27T06:10:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Brisbane International",
+      "timezone": "Australia/Brisbane",
+      "iata": "BNE",
+      "icao": "YBBN",
+      "terminal": "D",
+      "gate": "43",
+      "baggage": null,
+      "scheduled": "2025-07-27T09:05:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qatar Airways",
+      "iata": "QR",
+      "icao": "QTR"
+    },
+    "flight": {
+      "number": "6353",
+      "iata": "QR6353",
+      "icao": "QTR6353",
+      "codeshared": {
+        "airline_name": "virgin australia",
+        "airline_iata": "va",
+        "airline_icao": "voz",
+        "flight_number": "1385",
+        "flight_iata": "va1385",
+        "flight_icao": "voz1385"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "14",
+      "delay": null,
+      "scheduled": "2025-07-27T06:05:00+00:00",
+      "estimated": "2025-07-27T06:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Melbourne - Tullamarine Airport",
+      "timezone": "Australia/Melbourne",
+      "iata": "MEL",
+      "icao": "YMML",
+      "terminal": "3",
+      "gate": "4",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Virgin Australia",
+      "iata": "VA",
+      "icao": "VOZ"
+    },
+    "flight": {
+      "number": "204",
+      "iata": "VA204",
+      "icao": "VOZ204",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "14",
+      "delay": null,
+      "scheduled": "2025-07-27T06:05:00+00:00",
+      "estimated": "2025-07-27T06:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Melbourne - Tullamarine Airport",
+      "timezone": "Australia/Melbourne",
+      "iata": "MEL",
+      "icao": "YMML",
+      "terminal": "3",
+      "gate": "4",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "United Airlines",
+      "iata": "UA",
+      "icao": "UAL"
+    },
+    "flight": {
+      "number": "7387",
+      "iata": "UA7387",
+      "icao": "UAL7387",
+      "codeshared": {
+        "airline_name": "virgin australia",
+        "airline_iata": "va",
+        "airline_icao": "voz",
+        "flight_number": "204",
+        "flight_iata": "va204",
+        "flight_icao": "voz204"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Adelaide International Airport",
+      "timezone": "Australia/Adelaide",
+      "iata": "ADL",
+      "icao": "YPAD",
+      "terminal": "1",
+      "gate": "14",
+      "delay": null,
+      "scheduled": "2025-07-27T06:05:00+00:00",
+      "estimated": "2025-07-27T06:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Melbourne - Tullamarine Airport",
+      "timezone": "Australia/Melbourne",
+      "iata": "MEL",
+      "icao": "YMML",
+      "terminal": "3",
+      "gate": "4",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "6945",
+      "iata": "SQ6945",
+      "icao": "SIA6945",
+      "codeshared": {
+        "airline_name": "virgin australia",
+        "airline_iata": "va",
+        "airline_icao": "voz",
+        "flight_number": "204",
+        "flight_iata": "va204",
+        "flight_icao": "voz204"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Kuwait International",
+      "timezone": "Asia/Kuwait",
+      "iata": "KWI",
+      "icao": "OKKK",
+      "terminal": "1",
+      "gate": "T1",
+      "delay": null,
+      "scheduled": "2025-07-27T00:05:00+00:00",
+      "estimated": "2025-07-27T00:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sardar Vallabhbhai Patel International Airport",
+      "timezone": "Asia/Kolkata",
+      "iata": "AMD",
+      "icao": "VAAH",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T06:25:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "IndiGo",
+      "iata": "6E",
+      "icao": "IGO"
+    },
+    "flight": {
+      "number": "1244",
+      "iata": "6E1244",
+      "icao": "IGO1244",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Kuwait International",
+      "timezone": "Asia/Kuwait",
+      "iata": "KWI",
+      "icao": "OKKK",
+      "terminal": "1",
+      "gate": "T1",
+      "delay": null,
+      "scheduled": "2025-07-27T00:05:00+00:00",
+      "estimated": "2025-07-27T00:05:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Cairo International Airport",
+      "timezone": "Africa/Cairo",
+      "iata": "CAI",
+      "icao": "HECA",
+      "terminal": "1",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T02:55:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Nesma Airlines",
+      "iata": "NE",
+      "icao": "NMA"
+    },
+    "flight": {
+      "number": "211",
+      "iata": "NE211",
+      "icao": "NMA211",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "101",
+      "iata": "NZ101",
+      "icao": "ANZ101",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Virgin Atlantic",
+      "iata": "VS",
+      "icao": "VIR"
+    },
+    "flight": {
+      "number": "7685",
+      "iata": "VS7685",
+      "icao": "VIR7685",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "101",
+        "flight_iata": "nz101",
+        "flight_icao": "anz101"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Virgin Australia",
+      "iata": "VA",
+      "icao": "VOZ"
+    },
+    "flight": {
+      "number": "7001",
+      "iata": "VA7001",
+      "icao": "VOZ7001",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "101",
+        "flight_iata": "nz101",
+        "flight_icao": "anz101"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "United Airlines",
+      "iata": "UA",
+      "icao": "UAL"
+    },
+    "flight": {
+      "number": "6771",
+      "iata": "UA6771",
+      "icao": "UAL6771",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "101",
+        "flight_iata": "nz101",
+        "flight_icao": "anz101"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Turkish Airlines",
+      "iata": "TK",
+      "icao": "THY"
+    },
+    "flight": {
+      "number": "8747",
+      "iata": "TK8747",
+      "icao": "THY8747",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "101",
+        "flight_iata": "nz101",
+        "flight_icao": "anz101"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "4251",
+      "iata": "SQ4251",
+      "icao": "SIA4251",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "101",
+        "flight_iata": "nz101",
+        "flight_icao": "anz101"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Asiana Airlines",
+      "iata": "OZ",
+      "icao": "AAR"
+    },
+    "flight": {
+      "number": "6551",
+      "iata": "OZ6551",
+      "icao": "AAR6551",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "101",
+        "flight_iata": "nz101",
+        "flight_icao": "anz101"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4411",
+      "iata": "EY4411",
+      "icao": "ETD4411",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "101",
+        "flight_iata": "nz101",
+        "flight_icao": "anz101"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "4",
+      "delay": null,
+      "scheduled": "2025-07-27T07:00:00+00:00",
+      "estimated": "2025-07-27T07:00:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "63",
+      "baggage": "7",
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air China LTD",
+      "iata": "CA",
+      "icao": "CCA"
+    },
+    "flight": {
+      "number": "5111",
+      "iata": "CA5111",
+      "icao": "CCA5111",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "101",
+        "flight_iata": "nz101",
+        "flight_icao": "anz101"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "31",
+      "delay": null,
+      "scheduled": "2025-07-27T06:55:00+00:00",
+      "estimated": "2025-07-27T06:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Dunedin International",
+      "timezone": "Pacific/Auckland",
+      "iata": "DUD",
+      "icao": "NZDN",
+      "terminal": null,
+      "gate": "9",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "673",
+      "iata": "NZ673",
+      "icao": "ANZ673",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "31",
+      "delay": null,
+      "scheduled": "2025-07-27T06:55:00+00:00",
+      "estimated": "2025-07-27T06:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Dunedin International",
+      "timezone": "Pacific/Auckland",
+      "iata": "DUD",
+      "icao": "NZDN",
+      "terminal": null,
+      "gate": "9",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "4374",
+      "iata": "SQ4374",
+      "icao": "SIA4374",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "673",
+        "flight_iata": "nz673",
+        "flight_icao": "anz673"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "31",
+      "delay": null,
+      "scheduled": "2025-07-27T06:55:00+00:00",
+      "estimated": "2025-07-27T06:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Dunedin International",
+      "timezone": "Pacific/Auckland",
+      "iata": "DUD",
+      "icao": "NZDN",
+      "terminal": null,
+      "gate": "9",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qantas",
+      "iata": "QF",
+      "icao": "QFA"
+    },
+    "flight": {
+      "number": "8457",
+      "iata": "QF8457",
+      "icao": "QFA8457",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "673",
+        "flight_iata": "nz673",
+        "flight_icao": "anz673"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "31",
+      "delay": null,
+      "scheduled": "2025-07-27T06:55:00+00:00",
+      "estimated": "2025-07-27T06:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Dunedin International",
+      "timezone": "Pacific/Auckland",
+      "iata": "DUD",
+      "icao": "NZDN",
+      "terminal": null,
+      "gate": "9",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4594",
+      "iata": "EY4594",
+      "icao": "ETD4594",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "673",
+        "flight_iata": "nz673",
+        "flight_icao": "anz673"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "31",
+      "delay": null,
+      "scheduled": "2025-07-27T06:55:00+00:00",
+      "estimated": "2025-07-27T06:55:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Dunedin International",
+      "timezone": "Pacific/Auckland",
+      "iata": "DUD",
+      "icao": "NZDN",
+      "terminal": null,
+      "gate": "9",
+      "baggage": null,
+      "scheduled": "2025-07-27T08:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "EVA Air",
+      "iata": "BR",
+      "icao": "EVA"
+    },
+    "flight": {
+      "number": "3239",
+      "iata": "BR3239",
+      "icao": "EVA3239",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "673",
+        "flight_iata": "nz673",
+        "flight_icao": "anz673"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Melbourne - Tullamarine Airport",
+      "timezone": "Australia/Melbourne",
+      "iata": "MEL",
+      "icao": "YMML",
+      "terminal": "2",
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T08:45:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "7293",
+      "iata": "SQ7293",
+      "icao": "SIA7293",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "21",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Jetstar",
+      "iata": "JQ",
+      "icao": "JST"
+    },
+    "flight": {
+      "number": "253",
+      "iata": "JQ253",
+      "icao": "JST253",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "21",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qantas",
+      "iata": "QF",
+      "icao": "QFA"
+    },
+    "flight": {
+      "number": "5771",
+      "iata": "QF5771",
+      "icao": "QFA5771",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "253",
+        "flight_iata": "jq253",
+        "flight_icao": "jst253"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "21",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "LATAM Airlines",
+      "iata": "LA",
+      "icao": "LAN"
+    },
+    "flight": {
+      "number": "5682",
+      "iata": "LA5682",
+      "icao": "LAN5682",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "253",
+        "flight_iata": "jq253",
+        "flight_icao": "jst253"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "21",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Fiji Airways",
+      "iata": "FJ",
+      "icao": "FJI"
+    },
+    "flight": {
+      "number": "5531",
+      "iata": "FJ5531",
+      "icao": "FJI5531",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "253",
+        "flight_iata": "jq253",
+        "flight_icao": "jst253"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "21",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Emirates",
+      "iata": "EK",
+      "icao": "UAE"
+    },
+    "flight": {
+      "number": "7559",
+      "iata": "EK7559",
+      "icao": "UAE7559",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "253",
+        "flight_iata": "jq253",
+        "flight_icao": "jst253"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": null,
+      "delay": null,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Wellington International",
+      "timezone": "Pacific/Auckland",
+      "iata": "WLG",
+      "icao": "NZWN",
+      "terminal": null,
+      "gate": "21",
+      "baggage": null,
+      "scheduled": "2025-07-27T07:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "9039",
+      "iata": "AA9039",
+      "icao": "AAL9039",
+      "codeshared": {
+        "airline_name": "jetstar",
+        "airline_iata": "jq",
+        "airline_icao": "jst",
+        "flight_number": "253",
+        "flight_iata": "jq253",
+        "flight_icao": "jst253"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "1",
+      "baggage": "10",
+      "scheduled": "2025-07-27T08:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qantas",
+      "iata": "QF",
+      "icao": "QFA"
+    },
+    "flight": {
+      "number": "4",
+      "iata": "QF4",
+      "icao": "QFA4",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "1",
+      "baggage": "10",
+      "scheduled": "2025-07-27T08:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "China Airlines",
+      "iata": "CI",
+      "icao": "CAL"
+    },
+    "flight": {
+      "number": "8639",
+      "iata": "CI8639",
+      "icao": "CAL8639",
+      "codeshared": {
+        "airline_name": "qantas",
+        "airline_iata": "qf",
+        "airline_icao": "qfa",
+        "flight_number": "4",
+        "flight_iata": "qf4",
+        "flight_icao": "qfa4"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "1",
+      "baggage": "10",
+      "scheduled": "2025-07-27T08:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "LATAM Airlines",
+      "iata": "LA",
+      "icao": "LAN"
+    },
+    "flight": {
+      "number": "4802",
+      "iata": "LA4802",
+      "icao": "LAN4802",
+      "codeshared": {
+        "airline_name": "qantas",
+        "airline_iata": "qf",
+        "airline_icao": "qfa",
+        "flight_number": "4",
+        "flight_iata": "qf4",
+        "flight_icao": "qfa4"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "1",
+      "baggage": "10",
+      "scheduled": "2025-07-27T08:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air Tahiti Nui",
+      "iata": "TN",
+      "icao": "THT"
+    },
+    "flight": {
+      "number": "1451",
+      "iata": "TN1451",
+      "icao": "THT1451",
+      "codeshared": {
+        "airline_name": "qantas",
+        "airline_iata": "qf",
+        "airline_icao": "qfa",
+        "flight_number": "4",
+        "flight_iata": "qf4",
+        "flight_icao": "qfa4"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "1",
+      "baggage": "10",
+      "scheduled": "2025-07-27T08:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Emirates",
+      "iata": "EK",
+      "icao": "UAE"
+    },
+    "flight": {
+      "number": "5040",
+      "iata": "EK5040",
+      "icao": "UAE5040",
+      "codeshared": {
+        "airline_name": "qantas",
+        "airline_iata": "qf",
+        "airline_icao": "qfa",
+        "flight_number": "4",
+        "flight_iata": "qf4",
+        "flight_icao": "qfa4"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "1",
+      "baggage": "10",
+      "scheduled": "2025-07-27T08:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "AlphaSky",
+      "iata": "AS",
+      "icao": "JAG"
+    },
+    "flight": {
+      "number": "5042",
+      "iata": "AS5042",
+      "icao": "JAG5042",
+      "codeshared": {
+        "airline_name": "qantas",
+        "airline_iata": "qf",
+        "airline_icao": "qfa",
+        "flight_number": "4",
+        "flight_iata": "qf4",
+        "flight_icao": "qfa4"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": null,
+      "delay": 15,
+      "scheduled": "2025-07-27T06:45:00+00:00",
+      "estimated": "2025-07-27T06:45:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Sydney Kingsford Smith Airport",
+      "timezone": "Australia/Sydney",
+      "iata": "SYD",
+      "icao": "YSSY",
+      "terminal": "1",
+      "gate": "1",
+      "baggage": "10",
+      "scheduled": "2025-07-27T08:20:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "American Airlines",
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "flight": {
+      "number": "7264",
+      "iata": "AA7264",
+      "icao": "AAL7264",
+      "codeshared": {
+        "airline_name": "qantas",
+        "airline_iata": "qf",
+        "airline_icao": "qfa",
+        "flight_number": "4",
+        "flight_iata": "qf4",
+        "flight_icao": "qfa4"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "16",
+      "delay": null,
+      "scheduled": "2025-07-27T06:40:00+00:00",
+      "estimated": "2025-07-27T06:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Brisbane International",
+      "timezone": "Australia/Brisbane",
+      "iata": "BNE",
+      "icao": "YBBN",
+      "terminal": "I",
+      "gate": "87",
+      "baggage": "I02",
+      "scheduled": "2025-07-27T08:30:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Jetstar",
+      "iata": "JQ",
+      "icao": "JST"
+    },
+    "flight": {
+      "number": "150",
+      "iata": "JQ150",
+      "icao": "JST150",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "delay": null,
+      "scheduled": "2025-07-27T06:40:00+00:00",
+      "estimated": "2025-07-27T06:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Queenstown",
+      "timezone": "Pacific/Auckland",
+      "iata": "ZQN",
+      "icao": "NZQN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T08:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "611",
+      "iata": "NZ611",
+      "icao": "ANZ611",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "delay": null,
+      "scheduled": "2025-07-27T06:40:00+00:00",
+      "estimated": "2025-07-27T06:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Queenstown",
+      "timezone": "Pacific/Auckland",
+      "iata": "ZQN",
+      "icao": "NZQN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T08:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Singapore Airlines",
+      "iata": "SQ",
+      "icao": "SIA"
+    },
+    "flight": {
+      "number": "4450",
+      "iata": "SQ4450",
+      "icao": "SIA4450",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "611",
+        "flight_iata": "nz611",
+        "flight_icao": "anz611"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "delay": null,
+      "scheduled": "2025-07-27T06:40:00+00:00",
+      "estimated": "2025-07-27T06:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Queenstown",
+      "timezone": "Pacific/Auckland",
+      "iata": "ZQN",
+      "icao": "NZQN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T08:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Qantas",
+      "iata": "QF",
+      "icao": "QFA"
+    },
+    "flight": {
+      "number": "8448",
+      "iata": "QF8448",
+      "icao": "QFA8448",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "611",
+        "flight_iata": "nz611",
+        "flight_icao": "anz611"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "delay": null,
+      "scheduled": "2025-07-27T06:40:00+00:00",
+      "estimated": "2025-07-27T06:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Queenstown",
+      "timezone": "Pacific/Auckland",
+      "iata": "ZQN",
+      "icao": "NZQN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T08:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Etihad Airways",
+      "iata": "EY",
+      "icao": "ETD"
+    },
+    "flight": {
+      "number": "4739",
+      "iata": "EY4739",
+      "icao": "ETD4739",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "611",
+        "flight_iata": "nz611",
+        "flight_icao": "anz611"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "D",
+      "gate": "29",
+      "delay": null,
+      "scheduled": "2025-07-27T06:40:00+00:00",
+      "estimated": "2025-07-27T06:40:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Queenstown",
+      "timezone": "Pacific/Auckland",
+      "iata": "ZQN",
+      "icao": "NZQN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T08:35:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "EVA Air",
+      "iata": "BR",
+      "icao": "EVA"
+    },
+    "flight": {
+      "number": "3273",
+      "iata": "BR3273",
+      "icao": "EVA3273",
+      "codeshared": {
+        "airline_name": "air new zealand",
+        "airline_iata": "nz",
+        "airline_icao": "anz",
+        "flight_number": "611",
+        "flight_iata": "nz611",
+        "flight_icao": "anz611"
+      }
+    },
+    "aircraft": null,
+    "live": null
+  },
+  {
+    "flight_date": "2025-07-27",
+    "flight_status": "scheduled",
+    "departure": {
+      "airport": "Auckland International",
+      "timezone": "Pacific/Auckland",
+      "iata": "AKL",
+      "icao": "NZAA",
+      "terminal": "I",
+      "gate": "15",
+      "delay": null,
+      "scheduled": "2025-07-27T06:35:00+00:00",
+      "estimated": "2025-07-27T06:35:00+00:00",
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "arrival": {
+      "airport": "Nadi International",
+      "timezone": "Pacific/Fiji",
+      "iata": "NAN",
+      "icao": "NFFN",
+      "terminal": null,
+      "gate": null,
+      "baggage": null,
+      "scheduled": "2025-07-27T09:50:00+00:00",
+      "delay": null,
+      "estimated": null,
+      "actual": null,
+      "estimated_runway": null,
+      "actual_runway": null
+    },
+    "airline": {
+      "name": "Air New Zealand",
+      "iata": "NZ",
+      "icao": "ANZ"
+    },
+    "flight": {
+      "number": "950",
+      "iata": "NZ950",
+      "icao": "ANZ950",
+      "codeshared": null
+    },
+    "aircraft": null,
+    "live": null
+  }
+]
